@@ -9,5 +9,4 @@ Do you currently have laravel nova running on your site, check here for existing
 | Name | Description | Link |
 |------|-------------|------|
 | [nova backup tool](https://github.com/spatie/nova-backup-tool) | A Laravel Nova tool to backup your application.| [https://murze.be/introducing-our-laravel-nova-packages](https://murze.be/introducing-our-laravel-nova-packages) |
-
 | [laravel language center](https://github.com/Novasa/laravel-language-center) | Language Center for Laravel.| [http://novasa.com](http://novasa.com) |
